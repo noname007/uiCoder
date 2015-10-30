@@ -1,0 +1,17 @@
+{
+  "fileCreatePath":{
+    "sample":{
+      "lua":{
+          "ui":[
+              "/Users/jiasy/Documents/develop/uiCoder/cocosLuaSample"
+          ]
+      }
+    }
+  }
+  ,
+  "resourceCopyPath":{
+    "sample":{
+      "lua": "/Users/jiasy/Documents/develop/uiCoder/cocosLuaSample/res"
+    }
+  }
+}
